@@ -17,6 +17,13 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: '喫茶てつ',
+    img: 'https://i.gyazo.com/782b5647834e908e164501084d8f56d5.jpg',
+    description: 'Architect Terunobu Fujimori‘s treehouse combines both minimalism and fantasy. While the interior is simple and modern, the exterior looks like a page from a fairy tale.',
+    contributor: 'Matthew'
+
+  },
 ]
 
 module.exports = {
