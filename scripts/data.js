@@ -17,6 +17,12 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: 'Yellow Treehouse Restaurant',
+    img: 'https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/10/Yellow-Treehouse-Restaurant-a.jpg',
+    description: 'The Yellow Treehouse Restaurant near Auckland, New Zealand, is built around a 40-meter-tall redwood tree. It doesn’t serve as a regular restaurant — it’s only open for special events.',
+    contributor: 'Dillon'
+  }
 ]
 
 module.exports = {
