@@ -18,11 +18,17 @@ const treehouses = [
     contributor: 'Wes'
   },
   {
+    title: '喫茶てつ',
+    img: 'https://i.gyazo.com/782b5647834e908e164501084d8f56d5.jpg',
+    description: 'Architect Terunobu Fujimori‘s treehouse combines both minimalism and fantasy. While the interior is simple and modern, the exterior looks like a page from a fairy tale.',
+    contributor: 'Matthew'
+  },
+  {
     title: 'Sequoiadendron Giganteum',
     img: 'http://cronodon.com/images/Sequoiadendron.jpg',
     description: 'Sequoiadendron giganteum is the sole living species in the genus Sequoiadendron, and one of three species of coniferous trees known as redwoods, classified in the family Cupressaceae in the subfamily Sequoioideae, together with Sequoia sempervirens (coast redwood) and Metasequoia glyptostroboides (dawn redwood).',
     contributor: 'Brandon'
-  },
+  }
 ]
 
 module.exports = {
