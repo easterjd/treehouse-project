@@ -17,6 +17,12 @@ const treehouses = [
     description: 'A centuries-old majestic oak is home to Suite Bleue, one of two tree houses at La Piantata Bed & Breakfast in Italy’s northern Lazio region. The simple red-cedar building was constructed in France by the Provence-based specialty firm La Cabane Perchée and transported to a sprawling field of lavender on the resort’s estate.',
     contributor: 'Wes'
   },
+  {
+    title: 'Sequoiadendron Giganteum',
+    img: 'http://cronodon.com/images/Sequoiadendron.jpg',
+    description: 'Sequoiadendron giganteum is the sole living species in the genus Sequoiadendron, and one of three species of coniferous trees known as redwoods, classified in the family Cupressaceae in the subfamily Sequoioideae, together with Sequoia sempervirens (coast redwood) and Metasequoia glyptostroboides (dawn redwood).',
+    contributor: 'Brandon'
+  },
 ]
 
 module.exports = {
